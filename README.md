@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=%5BYOUR%20NAME%5D&fontSize=44&fontColor=fff&fontAlignY=38&desc=%5BYour%20Role%20-%20e.g.%20Full%20Stack%20Developer%5D&descAlignY=58&descSize=17)
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-1e3a8a?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=[Gautam Yadav]&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=[gautamyadav-eng]&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
 
 </div>
 
