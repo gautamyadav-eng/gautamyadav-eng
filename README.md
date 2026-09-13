@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=%5BYOUR%20NAME%5D&fontSize=44&fontColor=fff&fontAlignY=38&desc=%5BYour%20Role%20-%20e.g.%20Full%20Stack%20Developer%5D&descAlignY=58&descSize=17)
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-1e3a8a?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=[Gautam Yadav]&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
 
 </div>
 
@@ -11,15 +11,15 @@
 
 ## 📋 About
 
-I'm a **[e.g. Full Stack Developer]** focused on building scalable, production-ready web applications. I enjoy solving real problems through clean, maintainable code and continuously improving my craft.
+I'm a  Full Stack Developer focused on building scalable, production-ready web applications. I enjoy solving real problems through clean, maintainable code and continuously improving my craft.
 
 | | |
 |---|---|
-| 🎓 **Background** | [e.g. B.Tech in Computer Science, 2024] |
-| 💼 **Current Focus** | [e.g. MERN Stack development] |
-| 📚 **Learning Now** | [e.g. System Design & Java DSA] |
-| 📍 **Location** | [e.g. Ghaziabad, India] |
-| 📧 **Email** | [your.email@example.com] |
+| 🎓 **Background** | B.Tech in Computer Science, 2024 |
+| 💼 **Current Focus** | MERN Stack development |
+| 📚 **Learning Now** | WEB Design & Java DSA |
+| 📍 **Location** | Ghaziabad, India |
+| 📧 **Email** |gautamahi20005@gmail.com |
 
 <br>
 
