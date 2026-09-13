@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=%5BYOUR%20NAME%5D&fontSize=44&fontColor=fff&fontAlignY=38&desc=%5BYour%20Role%20-%20e.g.%20Full%20Stack%20Developer%5D&descAlignY=58&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=%5BYOUR%20NAME%5D&fontSize=44&fontColor=fff&fontAlignY=38&desc=%5BYour%20Role%20-%20e.g.%20Full%20Stack%20Developer%5D&descAlignY=58&descSize=17)
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-2c5364?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20Views&color=2c5364&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-1e3a8a?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20Views&color=1e3a8a&style=for-the-badge" />
 
 </div>
 
@@ -54,16 +54,16 @@ I'm a **[e.g. Full Stack Developer]** focused on building scalable, production-r
 ## 📊 GitHub Progress
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=default&hide_border=true&title_color=0f2027&icon_color=2c5364&text_color=333333"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=default&hide_border=true&title_color=0f2027&text_color=333333"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=default&hide_border=true&title_color=1e3a8a&icon_color=3b82f6&text_color=333333"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=default&hide_border=true&title_color=1e3a8a&text_color=333333"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=default&hide_border=true&ring=2c5364&fire=2c5364&currStreakLabel=0f2027"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=default&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=1e3a8a"/>
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=minimal&hide_border=true&color=0f2027&line=2c5364&point=0f2027"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=minimal&hide_border=true&color=1e3a8a&line=3b82f6&point=1e3a8a"/>
 </p>
 
 <br>
@@ -129,13 +129,13 @@ I'm a **[e.g. Full Stack Developer]** focused on building scalable, production-r
 
 <p align="left">
 <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://[your-portfolio].com"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://[your-portfolio].com"><img src="https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:203a43,100:3b82f6&height=100&section=footer)
 
 </div>
