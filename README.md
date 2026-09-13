@@ -1,58 +1,34 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20[TUMHARA%20NAAM]&fontSize=40&fontColor=fff&animation=fadeIn" width="100%"/>
-
-<h3>💻 [Tumhari Tagline — jaise: Full Stack Developer | MERN Stack | Java Enthusiast]</h3>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=[YOUR%20NAME]&fontSize=45&fontColor=fff&fontAlignY=40&desc=[YOUR%20ROLE%20-%20e.g.%20Full%20Stack%20Developer]&descAlignY=65&descSize=18"/>
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
-- 🔭 Main abhi kaam kar raha hoon: **[jaise: MERN Stack projects]**
-- 🌱 Currently seekh raha hoon: **[jaise: Java with DSA]**
-- 💡 Fun fact: **[jaise: Mujhe logic building aur problem solving pasand hai!]**
-- 📫 Mujhse contact karo: **[email ya LinkedIn]**
+## 🚀 Quick Intro
 
----
+I'm a developer who enjoys turning ideas into working products. Currently focused on **[your main stack, e.g. MERN Stack]** and exploring **[something you're learning, e.g. System Design]**.
 
-### 🛠️ Languages & Tools
+| | |
+|---|---|
+| 🎯 **Focus** | [e.g. Building scalable web apps] |
+| 📚 **Learning** | [e.g. DSA in Java / System Design] |
+| 🛠️ **Toolkit** | [e.g. React, Node.js, MongoDB] |
+| 🎮 **Off-duty** | [e.g. gaming / music / sketching] |
+| 📬 **Reach me** | [email or LinkedIn] |
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,java,python,git,github" />
-</div>
+<br/>
 
----
+## 🧰 Tech Stack
 
-### 📊 GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode" />
+</p>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=[Gautam Yadav]&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[Gautam Yadav]&theme=radical" width="48%"/>
-</div>
+<br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TUMHARA-USERNAME]&layout=compact&theme=radical" width="50%"/>
-</div>
+## 📈 GitHub Activity
 
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/[tumhara-linkedin])
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://[tumhari-website].com)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/[tumhara-handle])
-
-</div>
-
----
-
-<div align="center">
-<i>"Code. Learn. Build. Repeat."</i>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/
