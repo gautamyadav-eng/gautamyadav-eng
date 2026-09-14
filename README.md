@@ -42,7 +42,9 @@
 
 <br clear="all" />
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+</div>
 
 ### 🛠️ Languages and Tools
 
@@ -52,7 +54,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+</div>
 
 ### 📊 GitHub Stats
 
@@ -65,7 +69,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadav-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+</div>
 
 ### 🏆 LeetCode Stats
 
@@ -73,7 +79,9 @@
   <img src="https://leetcard.jacoblin.cool/gautam3652?theme=nord&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+</div>
 
 <div align="center">
   
