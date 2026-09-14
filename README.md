@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2193B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Solving+DSA+on+LeetCode;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
@@ -81,4 +81,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:6dd5ed&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=100&section=footer" alt="Footer" />
