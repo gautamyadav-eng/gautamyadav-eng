@@ -1,92 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%26%20DSA&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2193B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Java+%2B+DSA;" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a2980,100:26d0ce&height=200&section=header&text=Gautam%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%26%20DSA&descSize=18" alt="Header" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-yadav-73052a312/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GautamYada93940)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3652/)
+![Profile Views](https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20Views&color=1a2980&style=flat-square)
+
 </div>
 
-<br />
+<br/>
+
+## About Me
+
+- Full Stack Developer with hands-on experience in the **MERN Stack**
+- Currently strengthening core fundamentals in **Java and Data Structures & Algorithms**
+- Focused on writing clean, maintainable code and building practical, real-world projects
+- Continuously learning new technologies to stay current with industry practices
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
-  <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-  <div align="left">
-    <h3>👋 About Me</h3>
-    <ul>
-      <li>🔭 I'm a <b>Full Stack Developer</b>.</li>
-      <li>🌱 I'm currently mastering <b>Java with DSA</b>.</li>
-      <li>💻 I have completed <b>MERN Stack Development</b>.</li>
-      <li>🚀 I'm passionate about building projects and learning new technologies.</li>
-      <li>⚡ Fun fact: I enjoy solving coding problems and building logic!</li>
-    </ul>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20views&color=2193B0&style=flat-square" alt="gautamyadav-eng" />
-    </p>
-  </div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 </div>
 
-<h3 align="left">🌐 Connect with me:</h3>
+<br/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gautam-yadav-73052a312/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-2193B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/GautamYada93940" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-2193B0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://leetcode.com/u/gautam3652/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-2193B0?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-</p>
-
-<br clear="all" />
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamyadav-eng&show_icons=true&locale=en&theme=default&hide_border=true&title_color=1a2980&icon_color=26d0ce&text_color=333333" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=gautamyadav-eng&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true&title_color=1a2980&text_color=333333" alt="Top Languages" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadav-eng&theme=default&hide_border=true&background=FFFFFF&ring=1a2980&fire=26d0ce&currStreakLabel=1a2980" alt="GitHub Streak" />
+
 </div>
 
-### 🛠️ Languages and Tools
+<br/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,express,git,html,java,js,mongodb,mysql,nextjs,nodejs,python,react,tailwind&perline=15" alt="Languages and Tools" />
-  </a>
-</p>
+## LeetCode Statistics
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
+
+<img src="https://leetcard.jacoblin.cool/gautam3652?theme=light&font=Inter&ext=activity" alt="LeetCode Stats" />
+
 </div>
 
-### 📊 GitHub Stats
+<br/>
+
+## Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamyadav-eng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=gautamyadav-eng&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadav-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+Feel free to reach out for collaboration, opportunities, or just a technical conversation.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-### 🏆 LeetCode Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/gautam3652?theme=nord&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:2193b0,100:6dd5ed&height=60&section=header&animation=fadeIn" width="100%" alt="divider" />
-</div>
-
-<div align="center">
-  
-✨ *"Dream. Code. Build. Repeat."* ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-yadav-73052a312/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GautamYada93940)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3652/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a2980,100:26d0ce&height=100&section=footer" alt="Footer" />
