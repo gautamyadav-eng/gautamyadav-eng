@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%26%20DSA&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2193B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Solving+DSA+on+LeetCode;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2193B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Java+%2B+DSA;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,11 +14,11 @@
   <div align="left">
     <h3>👋 About Me</h3>
     <ul>
-      <li>🔭 I'm a <b>Full Stack Developer</b></li>
-      <li>🌱 I'm currently sharpening my <b>DSA</b> skills on LeetCode.</li>
-      <li>💻 I build with the <b>MERN Stack</b>.</li>
-      <li>🚀 I describe myself as <b>Curious, Consistent, and Always Learning</b>.</li>
-      <li>⚡ Fun fact: I enjoy turning bugs into features (accidentally)!</li>
+      <li>🔭 I'm a <b>Full Stack Developer</b>.</li>
+      <li>🌱 I'm currently mastering <b>Java with DSA</b>.</li>
+      <li>💻 I have completed <b>MERN Stack Development</b>.</li>
+      <li>🚀 I'm passionate about building projects and learning new technologies.</li>
+      <li>⚡ Fun fact: I enjoy solving coding problems and building logic!</li>
     </ul>
     <p>
       <img src="https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20views&color=2193B0&style=flat-square" alt="gautamyadav-eng" />
@@ -85,7 +85,7 @@
 
 <div align="center">
   
-✨ *"Code. Learn. Build. Repeat."* ✨
+✨ *"Dream. Code. Build. Repeat."* ✨
 
 </div>
 
