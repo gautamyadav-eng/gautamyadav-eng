@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gautam%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20and%20DSA&descAlignY=58&descSize=16" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Gautam%20Yadav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20and%20DSA&descAlignY=60&descSize=14" alt="Header" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=203A43&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;MERN+Stack+Developer;Learning+Java+%2B+DSA" alt="Typing SVG" />
+</a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-yadav-73052a312/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GautamYada93940)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3652/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gautamahir20005@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20Views&color=1a2980&style=flat-square)
 
 </div>
@@ -79,6 +86,7 @@ Feel free to reach out for collaboration, opportunities, or just a technical con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-yadav-73052a312/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/GautamYada93940)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/gautam3652/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gautamahir20005@gmail.com)
 
 </div>
 
