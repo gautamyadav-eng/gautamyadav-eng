@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:6dd5ed&height=250&section=header&text=Gautam%20Yadav&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=55&fontColor=FFFFFF" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Solving+DSA+on+LeetCode;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2193B0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Solving+DSA+on+LeetCode;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,7 +21,7 @@
       <li>⚡ Fun fact: I enjoy turning bugs into features (accidentally)!</li>
     </ul>
     <p>
-      <img src="https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20views&color=F72585&style=flat-square" alt="gautamyadav-eng" />
+      <img src="https://komarev.com/ghpvc/?username=gautamyadav-eng&label=Profile%20views&color=2193B0&style=flat-square" alt="gautamyadav-eng" />
     </p>
   </div>
 </div>
@@ -30,13 +30,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gautam-yadav-73052a312/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2193B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/GautamYada93940" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-2193B0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://leetcode.com/u/gautam3652/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-2193B0?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
@@ -57,12 +57,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamyadav-eng&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=gautamyadav-eng&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamyadav-eng&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=gautamyadav-eng&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadav-eng&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamyadav-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ### 🏆 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/gautam3652?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/gautam3652?theme=nord&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -81,4 +81,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2193b0,100:6dd5ed&height=100&section=footer" alt="Footer" />
