@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a2980,100:26d0ce&height=200&section=header&text=Gautam%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%26%20DSA&descSize=18" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=1a2980&height=200&section=header&text=Gautam%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Java%20%26%20DSA" alt="Header" />
 
 <br/>
 
@@ -82,4 +82,4 @@ Feel free to reach out for collaboration, opportunities, or just a technical con
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a2980,100:26d0ce&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=1a2980&height=100&section=footer" alt="Footer" />
